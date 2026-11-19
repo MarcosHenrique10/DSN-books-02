@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id248g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="121645ms" clipEnd="122615ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id248">
+      <!-- Sure -->
+      <text src="../013.xhtml#w248"/>
+      <audio clipBegin="122615ms" clipEnd="122845ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id249">
+      <!-- enough -->
+      <text src="../013.xhtml#w249"/>
+      <audio clipBegin="122845ms" clipEnd="123395ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- the -->
+      <text src="../013.xhtml#w250"/>
+      <audio clipBegin="123395ms" clipEnd="123475ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- little -->
+      <text src="../013.xhtml#w251"/>
+      <audio clipBegin="123475ms" clipEnd="123735ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id252">
+      <!-- tractors -->
+      <text src="../013.xhtml#w252"/>
+      <audio clipBegin="123735ms" clipEnd="124315ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id253">
+      <!-- were -->
+      <text src="../013.xhtml#w253"/>
+      <audio clipBegin="124315ms" clipEnd="124655ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id254">
+      <!-- everywhere -->
+      <text src="../013.xhtml#w254"/>
+      <audio clipBegin="124655ms" clipEnd="125305ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- Pffff -->
+      <text src="../013.xhtml#w255"/>
+      <audio clipBegin="125305ms" clipEnd="126285ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- Mooooove -->
+      <text src="../013.xhtml#w256"/>
+      <audio clipBegin="126285ms" clipEnd="127795ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- Whirrrr -->
+      <text src="../013.xhtml#w257"/>
+      <audio clipBegin="127795ms" clipEnd="128365ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id257g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="128365ms" clipEnd="129390ms" src="../audio/9781484724484.m4a"/>
+    </par>
+  </body>
+</smil>

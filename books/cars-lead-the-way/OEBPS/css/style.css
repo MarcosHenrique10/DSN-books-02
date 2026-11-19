@@ -1,0 +1,618 @@
+img{z-index:-1;}body {
+	width: 884px;
+	height: 1128px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 884px;
+	height: 1128px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.ded{
+	font-size: 40px;
+	line-height: 45px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:2px;
+	font-family:"ChaletComprimeCologneEighty";
+	color:#8F5928;
+}
+p.ded1{
+	font-size: 32px;
+	line-height: 37px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: .1em;
+	margin-bottom: 0px;
+	margin-left:12.4em;
+	font-family:"ChaletComprimeMilanEighty";
+	color:#8F5928;
+}
+p.ded2{
+	font-size: 32px;
+	line-height: 37px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: .1em;
+	margin-bottom: 0px;
+	margin-left:11.9em;
+	font-family:"ChaletComprimeMilanEighty";
+	color:#8F5928;
+}
+p.author{
+	font-size: 17px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"AvenirNextLTProLightCn";
+	color:#6E6E70;
+}
+span.author{
+	font-family:"AvenirNextLTProBoldCn";
+	font-size:22px;
+}
+p.crt{
+	font-size: 14px;
+	line-height: 17px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 1em;
+	margin-bottom: 0px;
+	font-family:"AvenirNextLTProLightCn";
+	color:#6E6E70;
+}
+p.nonindent_big{
+	font-size: 55px;
+	line-height: 59px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent_big1{
+	font-size: 47px;
+	line-height: 70px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent_big1_t{
+	font-size: 47px;
+	line-height: 70px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+span.big{
+	font-size:95px;
+	word-spacing:6px;
+}
+span.big4{
+	font-size:52px;
+}
+span.big1-1{
+	font-size:90px;
+	word-spacing:5px;
+}
+p.nonindent-1{
+	font-size: 45px;
+	line-height: 78px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent{
+	font-size: 47px;
+	line-height: 65px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent1{
+	font-size: 47px;
+	line-height: 65px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 7px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent-15{
+	font-size: 47px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent_t{
+	font-size: 47px;
+	line-height: 62px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent-19{
+	font-size: 47px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:5.2em;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent-32{
+	font-size: 47px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 7px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.nonindent32{
+	font-size: 47px;
+	line-height: 82px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 7px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+p.title{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeMilanEighty";
+	letter-spacing:2px;
+	word-spacing:1px;
+	color:#6e6e70;
+}
+p.back1{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeMilanEighty";
+	letter-spacing:2px;
+	word-spacing:1px;
+}
+p.back{
+	font-size: 70px;
+	line-height: 60px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 7px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+	color:#183c6e;
+}
+span.space7-1{
+	margin-left:1.9em;
+}
+span.big1{
+	font-size:50px;
+}
+.space{
+	word-spacing:4px;
+}
+span.space10-1{
+	margin-left:1em;
+	letter-spacing:1px;
+}
+span.big2{
+	font-size:62px;
+}
+span.space13-1{
+	margin-left:2.2em;
+}
+span.big2-1{
+	font-size:50px;
+	margin-left:.2em;
+}
+span.space15-1{
+	margin-left:.8em;
+	letter-spacing:2px;
+}
+span.space15-0{
+	margin-left:.2em;
+}
+span.space16-1{
+	word-spacing:2px;
+}
+span.space19-1{
+	margin-left:.9em;
+}
+span.space19-2{
+	margin-left:3em;
+}
+span.space24-1{
+	margin-left:2.2em;
+}
+span.space27-1{
+	margin-left:3.5em;
+	word-spacing:3px;
+}
+span.space29-1{
+	margin-left:.2em;
+	margin-right:.2em;
+	letter-spacing:1px;
+}
+span.space30-1{
+	margin-left:3.1em;
+	letter-spacing:1px;
+}
+span.space30-2{
+	margin-left:7em;
+}
+span.space32-1{
+	margin-left:2.6em;
+}
+span.space32-2{
+	margin-left:5.3em;
+}
+p.center{
+	font-size: 47px;
+	line-height: 62px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+span.space11{
+	letter-spacing:9px;
+	word-spacing: 1px;
+	margin-left: 6px;
+}
+p.au{
+	font-size: 25px;
+	line-height: 38px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+span.au{
+	font-family:"ChaletComprimeHongKongEighty";
+	font-size:43px;
+}
+span.red{
+	color:#DA272F;
+}
+p.ins{
+	font-size: 20px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"ChaletComprimeCologneEighty";
+}
+span.back{
+	font-size:45px;
+}
+span.back1{
+	font-size:80px;
+	margin-left:.5em;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 227px;
+	left: 228px;
+	right: 0px;
+width: 503px;height: 76px;}
+div.page2_item2{
+	position: absolute;
+	top: 414px;
+	left: 222px;
+	right: 0px;
+width: 511px;height: 88px;}
+div.page2_item3{
+	position: absolute;
+	top: 704px;
+	left: 102px;
+	right: 0px;
+width: 679px;height: 303px;}
+div.page3_item1{
+	position: absolute;
+	top: 773px;
+	left: 192px;
+	right: 0px;
+width: 503px;height: 76px;}
+div.page3_item2{
+	position: absolute;
+	top: 912px;
+	left: 350px;
+	right: 0px;
+width: 503px;height: 76px;}
+div.page3_item3{
+	position: absolute;
+	top: 1035px;
+	left: 368px;
+	right: 0px;
+width: 503px;height: 76px;}
+div.page4_item1{
+	position: absolute;
+	top: 158px;
+	left: 152px;
+	right: 0px;
+width: 359px;height: 238px;}
+div.page6_item1{
+	position: absolute;
+	top: 155px;
+	left: 198px;
+	right: 0px;
+width: 284px;height: 217px;}
+div.page7_item1{
+	position: absolute;
+	top: 862px;
+	left: 312px;
+	right: 0px;
+width: 416px;height: 130px;}
+div.page8_item1{
+	position: absolute;
+	top: 105px;
+	left: 119px;
+	right: 0px;
+width: 655px;height: 94px;}
+div.page9_item1{
+	position: absolute;
+	top: 166px;
+	left: 92px;
+	right: 0px;
+width: 187px;height: 103px;}
+div.page9_item2{
+	position: absolute;
+	top: 990px;
+	left: 357px;
+	right: 0px;
+width: 377px;height: 45px;}
+div.page10_item1{
+	position: absolute;
+	top: 812px;
+	left: 122px;
+	right: 0px;
+width: 700px;height: 57px;}
+div.page11_item1{
+	position: absolute;
+	top: 968px;
+	left: 113px;
+	right: 0px;
+width: 665px;height: 37px;}
+div.page12_item1{
+	position: absolute;
+	top: 105px;
+	left: 122px;
+	right: 0px;
+width: 517px;height: 164px;}
+div.page13_item1{
+	position: absolute;
+	top: 915px;
+	left: 157px;
+	right: 0px;
+width: 600px;height: 120px;}
+div.page14_item1{
+	position: absolute;
+	top: 110px;
+	left: 167px;
+	right: 0px;
+width: 446px;height: 45px;}
+div.page15_item1{
+	position: absolute;
+	top: 843px;
+	left: 368px;
+	right: 0px;
+width: 448px;height: 162px;}
+div.page16_item1{
+	position: absolute;
+	top: 110px;
+	left: 164px;
+	right: 0px;
+width: 455px;height: 105px;}
+div.page19_item1{
+	position: absolute;
+	top: 83px;
+	left: 150px;
+	right: 0px;
+width: 631px;height: 272px;}
+div.page20_item1{
+	position: absolute;
+	top: 987px;
+	left: 165px;
+	right: 0px;
+width: 571px;height: 54px;}
+div.page21_item1{
+	position: absolute;
+	top: 987px;
+	left: 253px;
+	right: 0px;
+width: 447px;height: 46px;}
+div.page22_item1{
+	position: absolute;
+	top: 121px;
+	left: 120px;
+	right: 0px;
+width: 577px;height: 203px;}
+div.page23_item1{
+	position: absolute;
+	top: 1015px;
+	left: 195px;
+	right: 0px;
+width: 500px;height: 42px;}
+div.page24_item1{
+	position: absolute;
+	top: 107px;
+	left: 163px;
+	right: 0px;
+width: 459px;height: 127px;}
+div.page27_item1{
+	position: absolute;
+	top: 943px;
+	left: 206px;
+	right: 0px;
+width: 850px;height: 108px;}
+div.page28_item1{
+	position: absolute;
+	top: 997px;
+	left: 216px;
+	right: 0px;
+width: 450px;height: 45px;}
+div.page29_item1{
+	position: absolute;
+	top: 979px;
+	left: 190px;
+	right: 0px;
+width: 710px;height: 67px;}
+div.page30_item1{
+	position: absolute;
+	top: 875px;
+	left: 153px;
+	right: 0px;
+width: 900px;height: 174px;}
+div.page32_item1{
+	position: absolute;
+	top: 883px;
+	left: 99px;
+	right: 0px;
+width: 600px;height: 156px;}
+div.page33_item1{
+	position: absolute;
+	top: 995px;
+	left: 102px;
+	right: 0px;
+width: 750px;height: 48px;}
+div.page34_item1{
+	position: absolute;
+	top: 123px;
+	left: 170px;
+	right: 0px;
+width: 462px;height: 191px;}
+div.page38_item1{
+	position: absolute;
+	top: 173px;
+	left: 292px;
+	right: 0px;
+width: 503px;height: 76px;}
+div.page38_item2{
+	position: absolute;
+	top: 1057px;
+	left: 233px;
+	right: 0px;
+width: 503px;height: 76px;}
+@font-face{
+	font-family:"ChaletComprimeCologneEighty";
+	src: url(../fonts/ChaletComprimeCologneEighty.otf);
+}
+@font-face{
+	font-family:"ChaletComprimeMilanEighty";
+	src: url(../fonts/ChaletComprimeMilanEighty.otf);
+}
+@font-face{
+	font-family:"AvenirNextLTProLightCn";
+	src: url(../fonts/AvenirNextLTProLightCn.otf);
+}
+@font-face{
+	font-family:"AvenirNextLTProBoldCn";
+	src: url(../fonts/AvenirNextLTProBoldCn.otf);
+}
+@font-face{
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+span.arial{
+	font-family:"Arial";
+}
+@font-face{
+	font-family:"AvenirNextLTProLightCnIt";
+	src: url(../fonts/AvenirNextLTProLightCnIt.otf);
+}
+@font-face{
+	font-family:"ChaletComprimeHongKongEighty";
+	src: url(../fonts/ChaletComprimeHongKongEighty.otf);
+}
+span.italic{
+	font-family:"AvenirNextLTProLightCnIt";
+}
+.white{
+	color:#ffffff;
+}
+span.space13-2{
+	margin-left:.2em;
+}
+.media-overlay-active { color:#f00 !important; }
+div.page3_item1 .media-overlay-active { color:#4d4395 !important; }
+div.page3_item2 .media-overlay-active { color:#4d4395 !important; }
+
+span.big10{
+	font-size:95px;
+	word-spacing:6px;
+	margin-left: 11px;
+}
+
+span.big11{
+	font-size:95px;
+	margin-left:.19em;
+	letter-spacing: 1px;
+}
+
+span.left
+{
+margin-left: 2px;
+}
+
+

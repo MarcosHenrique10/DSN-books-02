@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id403g">
+      <!--  -->
+      <text src="../023.xhtml#empty"/>
+      <audio clipBegin="191715ms" clipEnd="192755ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- That's -->
+      <text src="../023.xhtml#w403"/>
+      <audio clipBegin="192755ms" clipEnd="193095ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- music -->
+      <text src="../023.xhtml#w404"/>
+      <audio clipBegin="193095ms" clipEnd="193565ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- to -->
+      <text src="../023.xhtml#w405"/>
+      <audio clipBegin="193565ms" clipEnd="193705ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- my -->
+      <text src="../023.xhtml#w406"/>
+      <audio clipBegin="193705ms" clipEnd="194085ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- ears -->
+      <text src="../023.xhtml#w407"/>
+      <audio clipBegin="194085ms" clipEnd="195105ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id408">
+      <!-- Sheriff -->
+      <text src="../023.xhtml#w408"/>
+      <audio clipBegin="195105ms" clipEnd="195445ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id409">
+      <!-- sighed -->
+      <text src="../023.xhtml#w409"/>
+      <audio clipBegin="195445ms" clipEnd="195845ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id410">
+      <!-- with -->
+      <text src="../023.xhtml#w410"/>
+      <audio clipBegin="195845ms" clipEnd="196075ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id411">
+      <!-- relief -->
+      <text src="../023.xhtml#w411"/>
+      <audio clipBegin="196075ms" clipEnd="196425ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id411g">
+      <!--  -->
+      <text src="../023.xhtml#empty"/>
+      <audio clipBegin="196425ms" clipEnd="197574ms" src="../audio/9781484724484.m4a"/>
+    </par>
+  </body>
+</smil>

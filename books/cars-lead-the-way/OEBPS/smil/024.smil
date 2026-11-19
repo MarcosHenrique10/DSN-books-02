@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id192g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="126201ms" clipEnd="127396ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- You -->
+			<text src="../024.xhtml#w192"/>
+			<audio clipBegin="127396ms" clipEnd="127816ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- will -->
+			<text src="../024.xhtml#w193"/>
+			<audio clipBegin="127816ms" clipEnd="128096ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- help -->
+			<text src="../024.xhtml#w194"/>
+			<audio clipBegin="128096ms" clipEnd="128436ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- that -->
+			<text src="../024.xhtml#w195"/>
+			<audio clipBegin="128436ms" clipEnd="128716ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- someone -->
+			<text src="../024.xhtml#w196"/>
+			<audio clipBegin="128716ms" clipEnd="129406ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- FACE -->
+			<text src="../024.xhtml#w197"/>
+			<audio clipBegin="129406ms" clipEnd="130016ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- FEARS -->
+			<text src="../024.xhtml#w198"/>
+			<audio clipBegin="130016ms" clipEnd="130946ms" src="../audio/9781368001755.m4a"/>
+		</par>
+		<par id="id198g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="130946ms" clipEnd="131214ms" src="../audio/9781368001755.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,117 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+/* body, html { background-color: #999; } */
+
+@font-face {
+	font-family:"arial-black-regular";
+	src: url(../fonts/ArialBlack.otf);
+}
+@font-face {
+	font-family:"arial-italic";
+	src: url(../fonts/ArialItalic.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"bernhardgothicsg-ultra-ultra";
+	src: url(../fonts/BernhardGothicSG-Ultra.otf);
+}
+@font-face {
+	font-family:"burbank-small-light";
+	src: url(../fonts/BurbankSmall-Light.otf);
+}
+@font-face {
+	font-family:"triplex-light";
+	src: url(../fonts/TriplexLight.otf);
+}
+.font-1 {
+	font-family:"arial-regular";
+	font-size:9px;
+}
+.font-2 {
+	font-family:"arial-italic";
+	font-size:9px;
+}
+.font-3 {
+	font-family:"bernhardgothicsg-ultra-ultra";
+	font-size:14px;
+}
+.font-4 {
+	font-family:"arial-black-regular";
+	font-size:44px;
+	line-height:41px;
+}
+.font-5 {
+	font-family:"triplex-light";
+	font-size:24px;
+	line-height:26px;
+	letter-spacing: .04em;
+}
+.font-6 {
+	font-family:"bernhardgothicsg-ultra-ultra";
+	font-size:39px;
+	line-height:39px;
+	letter-spacing: .05em;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:669px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:669px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:669px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/
+
+.p-copyright-block { line-height: 9px; }
+.p-copyright-spacer { line-height: 9px; }
+.p-spacer-1 { padding-top: .25em; }
+div.text-frame p { padding-top: .25em; }
+div.text-frame p.p-no-spacer { padding-top: 0; }
+
+span.comma-fix,
+span.quote-fix-left,
+span.quote-fix-right,
+span.apostrophe-fix {
+	font-family: "burbank-small-light";
+}
+span.quote-fix-left,
+span.quote-fix-right {
+	border: 0px solid black;
+	display: inline-block;
+}
+span.quote-fix-left { 
+  -webkit-transform: matrix(1, 0, 0, -1, 0, 0);
+  -moz-transform: matrix(1, 0, 0, -1, 0, 0);
+  -o-transform: matrix(1, 0, 0, -1, 0, 0);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+	padding-top: .7em;
+	margin-top: -1em;
+	margin-left: -1.25em;
+}
+span.quote-fix-right { 
+	margin-left: -1.3em;
+	padding-top: .5em;
+	margin-top: -.5em;
+	margin-bottom: 0;
+}
+span.quote-fix-right.quote-right-margin-1 {
+	margin-left: -.2em;
+}
+span.quote-fix-right.quote-right-margin-2 {
+	margin-left: -.1em;
+}
+span.quote-fix-left.quote-left-margin-1 {
+	margin-left: -.1em;
+}
+tspan.media-overlay-active { fill:#f00 !important; } /* For audio books */

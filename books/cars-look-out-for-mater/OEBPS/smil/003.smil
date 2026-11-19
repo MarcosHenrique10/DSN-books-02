@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14765ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Cars -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14765ms" clipEnd="16105ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Look -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16105ms" clipEnd="16415ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Out -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16415ms" clipEnd="16655ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- for -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16655ms" clipEnd="16845ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Mater -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16845ms" clipEnd="17985ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17985ms" clipEnd="18535ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18535ms" clipEnd="18895ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Andrea -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="18895ms" clipEnd="19375ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Posner -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19375ms" clipEnd="19905ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Sanchez -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="19905ms" clipEnd="21205ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21205ms" clipEnd="21815ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="21815ms" clipEnd="22145ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Ivan -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="22145ms" clipEnd="22665ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Boix -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="22665ms" clipEnd="23085ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Estudi -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="23085ms" clipEnd="23725ms" src="../audio/9781484751459.m4a"/>
+    </par>
+    <par id="id15g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="23725ms" clipEnd="24642ms" src="../audio/9781484751459.m4a"/>
+    </par>
+  </body>
+</smil>

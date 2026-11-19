@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="16185ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Mater's -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16185ms" clipEnd="16635ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Junkyard -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16635ms" clipEnd="17325ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Jamboree -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17325ms" clipEnd="18915ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18915ms" clipEnd="19435ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="19435ms" clipEnd="19605ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Nancy -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19605ms" clipEnd="20045ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Casolaro -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20045ms" clipEnd="21025ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- and -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21025ms" clipEnd="21195ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Catherine -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21195ms" clipEnd="21645ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Wood -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21645ms" clipEnd="22615ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22615ms" clipEnd="23265ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23265ms" clipEnd="23435ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Scott -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23435ms" clipEnd="23885ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="23885ms" clipEnd="24605ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Andrew -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24605ms" clipEnd="25015ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Phillipson -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25015ms" clipEnd="25755ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- and -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="25755ms" clipEnd="25845ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- the -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="25845ms" clipEnd="25915ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Disney -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="25915ms" clipEnd="26365ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="26365ms" clipEnd="27085ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Artists -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="27085ms" clipEnd="27625ms" src="../audio/9781484724484.m4a"/>
+    </par>
+    <par id="id21g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="27625ms" clipEnd="28547ms" src="../audio/9781484724484.m4a"/>
+    </par>
+  </body>
+</smil>

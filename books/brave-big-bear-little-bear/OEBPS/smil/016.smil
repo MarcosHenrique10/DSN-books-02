@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id54g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="63606ms" clipEnd="64386ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- Merida -->
+      <text src="../016.xhtml#w54"/>
+      <audio clipBegin="64386ms" clipEnd="65396ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- is -->
+      <text src="../016.xhtml#w55"/>
+      <audio clipBegin="65396ms" clipEnd="65606ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- NEAR -->
+      <text src="../016.xhtml#w56"/>
+      <audio clipBegin="65606ms" clipEnd="66116ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id56g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="66116ms" clipEnd="66636ms" src="../audio/9781484711309.m4a"/>
+    </par>
+  </body>
+</smil>

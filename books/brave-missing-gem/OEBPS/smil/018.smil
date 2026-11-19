@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id397g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="214076ms" clipEnd="215175ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id397">
+      <!-- Hamish -->
+      <text src="../018.xhtml#w397"/>
+      <audio clipBegin="215175ms" clipEnd="215645ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id398">
+      <!-- got -->
+      <text src="../018.xhtml#w398"/>
+      <audio clipBegin="215645ms" clipEnd="215925ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id399">
+      <!-- more -->
+      <text src="../018.xhtml#w399"/>
+      <audio clipBegin="215925ms" clipEnd="216175ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id400">
+      <!-- muffins -->
+      <text src="../018.xhtml#w400"/>
+      <audio clipBegin="216175ms" clipEnd="217795ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id401">
+      <!-- Hubert -->
+      <text src="../018.xhtml#w401"/>
+      <audio clipBegin="217795ms" clipEnd="218245ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id402">
+      <!-- got -->
+      <text src="../018.xhtml#w402"/>
+      <audio clipBegin="218245ms" clipEnd="218515ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- more -->
+      <text src="../018.xhtml#w403"/>
+      <audio clipBegin="218515ms" clipEnd="218695ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- milk -->
+      <text src="../018.xhtml#w404"/>
+      <audio clipBegin="218695ms" clipEnd="219165ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id404g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="219165ms" clipEnd="219535ms" src="../audio/9781484750544.m4a"/>
+    </par>
+  </body>
+</smil>

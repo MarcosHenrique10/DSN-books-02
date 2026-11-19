@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id60g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="70630ms" clipEnd="71476ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- The -->
+      <text src="../018.xhtml#w60"/>
+      <audio clipBegin="71476ms" clipEnd="71616ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- Witch -->
+      <text src="../018.xhtml#w61"/>
+      <audio clipBegin="71616ms" clipEnd="72656ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- is -->
+      <text src="../018.xhtml#w62"/>
+      <audio clipBegin="72656ms" clipEnd="73146ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- OLD -->
+      <text src="../018.xhtml#w63"/>
+      <audio clipBegin="73146ms" clipEnd="73666ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id63g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="73666ms" clipEnd="74151ms" src="../audio/9781484711309.m4a"/>
+    </par>
+  </body>
+</smil>

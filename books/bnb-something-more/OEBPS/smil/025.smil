@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id190g">
+			<!--  -->
+			<text src="../025.xhtml#empty"/>
+			<audio clipBegin="112637ms" clipEnd="113052ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- Maurice -->
+			<text src="../025.xhtml#w190"/>
+			<audio clipBegin="113052ms" clipEnd="113402ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- told -->
+			<text src="../025.xhtml#w191"/>
+			<audio clipBegin="113402ms" clipEnd="113782ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- Belle -->
+			<text src="../025.xhtml#w192"/>
+			<audio clipBegin="113782ms" clipEnd="114022ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- to -->
+			<text src="../025.xhtml#w193"/>
+			<audio clipBegin="114022ms" clipEnd="114172ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- ignore -->
+			<text src="../025.xhtml#w194"/>
+			<audio clipBegin="114172ms" clipEnd="114862ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- the -->
+			<text src="../025.xhtml#w195"/>
+			<audio clipBegin="114862ms" clipEnd="114972ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- villagers -->
+			<text src="../025.xhtml#w196"/>
+			<audio clipBegin="114972ms" clipEnd="116032ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- He -->
+			<text src="../025.xhtml#w197"/>
+			<audio clipBegin="116032ms" clipEnd="116162ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- loved -->
+			<text src="../025.xhtml#w198"/>
+			<audio clipBegin="116162ms" clipEnd="116622ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id199">
+			<!-- that -->
+			<text src="../025.xhtml#w199"/>
+			<audio clipBegin="116622ms" clipEnd="116782ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id200">
+			<!-- his -->
+			<text src="../025.xhtml#w200"/>
+			<audio clipBegin="116782ms" clipEnd="116942ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- daughter -->
+			<text src="../025.xhtml#w201"/>
+			<audio clipBegin="116942ms" clipEnd="117262ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id202">
+			<!-- was -->
+			<text src="../025.xhtml#w202"/>
+			<audio clipBegin="117262ms" clipEnd="117442ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id203">
+			<!-- different -->
+			<text src="../025.xhtml#w203"/>
+			<audio clipBegin="117442ms" clipEnd="117922ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id203g">
+			<!--  -->
+			<text src="../025.xhtml#empty1"/>
+			<audio clipBegin="117922ms" clipEnd="118732ms" src="../audio/9781368002202.m4a"/>
+		</par>
+	</body>
+</smil>

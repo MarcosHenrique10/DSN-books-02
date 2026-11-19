@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id152g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="105138ms" clipEnd="105995ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id152">
+      <!-- Merida -->
+      <text src="../018.xhtml#w152"/>
+      <audio clipBegin="105995ms" clipEnd="106525ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id153">
+      <!-- runs -->
+      <text src="../018.xhtml#w153"/>
+      <audio clipBegin="106525ms" clipEnd="106855ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id154">
+      <!-- away -->
+      <text src="../018.xhtml#w154"/>
+      <audio clipBegin="106855ms" clipEnd="107715ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id155">
+      <!-- She -->
+      <text src="../018.xhtml#w155"/>
+      <audio clipBegin="107715ms" clipEnd="107935ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id156">
+      <!-- meets -->
+      <text src="../018.xhtml#w156"/>
+      <audio clipBegin="107935ms" clipEnd="108505ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id157">
+      <!-- a -->
+      <text src="../018.xhtml#w157"/>
+      <audio clipBegin="108505ms" clipEnd="108565ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id158">
+      <!-- Witch -->
+      <text src="../018.xhtml#w158"/>
+      <audio clipBegin="108565ms" clipEnd="109675ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- She -->
+      <text src="../018.xhtml#w159"/>
+      <audio clipBegin="109675ms" clipEnd="109975ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- asks -->
+      <text src="../018.xhtml#w160"/>
+      <audio clipBegin="109975ms" clipEnd="110395ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- the -->
+      <text src="../018.xhtml#w161"/>
+      <audio clipBegin="110395ms" clipEnd="110515ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- Witch -->
+      <text src="../018.xhtml#w162"/>
+      <audio clipBegin="110515ms" clipEnd="110915ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- to -->
+      <text src="../018.xhtml#w163"/>
+      <audio clipBegin="110915ms" clipEnd="111235ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- change -->
+      <text src="../018.xhtml#w164"/>
+      <audio clipBegin="111235ms" clipEnd="112065ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- the -->
+      <text src="../018.xhtml#w165"/>
+      <audio clipBegin="112065ms" clipEnd="112165ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id166">
+      <!-- queen -->
+      <text src="../018.xhtml#w166"/>
+      <audio clipBegin="112165ms" clipEnd="112675ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id166g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="112675ms" clipEnd="113130ms" src="../audio/9781423189336.m4a"/>
+    </par>
+  </body>
+</smil>

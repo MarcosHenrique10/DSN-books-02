@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id110g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="78430ms" clipEnd="78935ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- The -->
+      <text src="../013.xhtml#w110"/>
+      <audio clipBegin="78935ms" clipEnd="79035ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- best -->
+      <text src="../013.xhtml#w111"/>
+      <audio clipBegin="79035ms" clipEnd="79575ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- shooter -->
+      <text src="../013.xhtml#w112"/>
+      <audio clipBegin="79575ms" clipEnd="80405ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id113">
+      <!-- will -->
+      <text src="../013.xhtml#w113"/>
+      <audio clipBegin="80405ms" clipEnd="80655ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id114">
+      <!-- marry -->
+      <text src="../013.xhtml#w114"/>
+      <audio clipBegin="80655ms" clipEnd="81075ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id115">
+      <!-- the -->
+      <text src="../013.xhtml#w115"/>
+      <audio clipBegin="81075ms" clipEnd="81185ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id116">
+      <!-- princess -->
+      <text src="../013.xhtml#w116"/>
+      <audio clipBegin="81185ms" clipEnd="81945ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id116g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="81945ms" clipEnd="82654ms" src="../audio/9781423189336.m4a"/>
+    </par>
+  </body>
+</smil>

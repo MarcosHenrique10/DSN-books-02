@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id116">
+      <!-- Maudie -->
+      <text src="../031.xhtml#w116"/>
+      <audio clipBegin="126086ms" clipEnd="127366ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id117">
+      <!-- is -->
+      <text src="../031.xhtml#w117"/>
+      <audio clipBegin="127366ms" clipEnd="127896ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id118">
+      <!-- SCARED -->
+      <text src="../031.xhtml#w118"/>
+      <audio clipBegin="127896ms" clipEnd="128806ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id118g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="128806ms" clipEnd="129361ms" src="../audio/9781484711309.m4a"/>
+    </par>
+  </body>
+</smil>

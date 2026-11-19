@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id175g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="105747ms" clipEnd="106542ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id175">
+			<!-- Belle -->
+			<text src="../024.xhtml#w175"/>
+			<audio clipBegin="106542ms" clipEnd="106782ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id176">
+			<!-- talked -->
+			<text src="../024.xhtml#w176"/>
+			<audio clipBegin="106782ms" clipEnd="107222ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id177">
+			<!-- with -->
+			<text src="../024.xhtml#w177"/>
+			<audio clipBegin="107222ms" clipEnd="107312ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- her -->
+			<text src="../024.xhtml#w178"/>
+			<audio clipBegin="107312ms" clipEnd="107482ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- father -->
+			<text src="../024.xhtml#w179"/>
+			<audio clipBegin="107482ms" clipEnd="108192ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id180">
+			<!-- Maurice -->
+			<text src="../024.xhtml#w180"/>
+			<audio clipBegin="108192ms" clipEnd="109382ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id181">
+			<!-- He -->
+			<text src="../024.xhtml#w181"/>
+			<audio clipBegin="109382ms" clipEnd="109492ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id182">
+			<!-- told -->
+			<text src="../024.xhtml#w182"/>
+			<audio clipBegin="109492ms" clipEnd="109882ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id183">
+			<!-- Belle -->
+			<text src="../024.xhtml#w183"/>
+			<audio clipBegin="109882ms" clipEnd="110152ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id184">
+			<!-- that -->
+			<text src="../024.xhtml#w184"/>
+			<audio clipBegin="110152ms" clipEnd="110282ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- she -->
+			<text src="../024.xhtml#w185"/>
+			<audio clipBegin="110282ms" clipEnd="110412ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- was -->
+			<text src="../024.xhtml#w186"/>
+			<audio clipBegin="110412ms" clipEnd="110622ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- fearless -->
+			<text src="../024.xhtml#w187"/>
+			<audio clipBegin="110622ms" clipEnd="111372ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- and -->
+			<text src="../024.xhtml#w188"/>
+			<audio clipBegin="111372ms" clipEnd="111632ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- daring -->
+			<text src="../024.xhtml#w189"/>
+			<audio clipBegin="111632ms" clipEnd="112222ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id189g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="112222ms" clipEnd="112637ms" src="../audio/9781368002202.m4a"/>
+		</par>
+	</body>
+</smil>

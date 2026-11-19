@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id12g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="23857ms" clipEnd="24545ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Princess -->
+      <text src="../004.xhtml#w12"/>
+      <audio clipBegin="24545ms" clipEnd="25095ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Merida -->
+      <text src="../004.xhtml#w13"/>
+      <audio clipBegin="25095ms" clipEnd="25765ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- is -->
+      <text src="../004.xhtml#w14"/>
+      <audio clipBegin="25765ms" clipEnd="25955ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- late -->
+      <text src="../004.xhtml#w15"/>
+      <audio clipBegin="25955ms" clipEnd="27015ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- The -->
+      <text src="../004.xhtml#w16"/>
+      <audio clipBegin="27015ms" clipEnd="27115ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- royal -->
+      <text src="../004.xhtml#w17"/>
+      <audio clipBegin="27115ms" clipEnd="27555ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- family -->
+      <text src="../004.xhtml#w18"/>
+      <audio clipBegin="27555ms" clipEnd="28415ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- waits -->
+      <text src="../004.xhtml#w19"/>
+      <audio clipBegin="28415ms" clipEnd="29235ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id19g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="29235ms" clipEnd="29730ms" src="../audio/9781423189336.m4a"/>
+    </par>
+  </body>
+</smil>

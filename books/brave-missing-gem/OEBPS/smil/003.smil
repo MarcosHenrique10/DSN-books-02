@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13235ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13235ms" clipEnd="13765ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Princess -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13765ms" clipEnd="15675ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Merida -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15675ms" clipEnd="16525ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- and -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16525ms" clipEnd="16735ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- the -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16735ms" clipEnd="16845ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Missing -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16845ms" clipEnd="17485ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Gem -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17485ms" clipEnd="17965ms" src="../audio/9781484750544.m4a"/>
+    </par>
+    <par id="id7g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17965ms" clipEnd="18934ms" src="../audio/9781484750544.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1-a">
+      <!-- START Bumper -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="0ms" clipEnd="15570ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15570ms" clipEnd="15885ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15885ms" clipEnd="16595ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16595ms" clipEnd="18105ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18105ms" clipEnd="18895ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18895ms" clipEnd="19015ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Maria -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19015ms" clipEnd="19725ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Elena -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19725ms" clipEnd="20235ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Naggi -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20235ms" clipEnd="21065ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- and -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21065ms" clipEnd="21305ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Studio -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21305ms" clipEnd="21975ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- IBOIX -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21975ms" clipEnd="22825ms" src="../audio/9781423189336.m4a"/>
+    </par>
+    <par id="id11g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="22825ms" clipEnd="23857ms" src="../audio/9781423189336.m4a"/>
+    </par>
+  </body>
+</smil>

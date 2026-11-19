@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id93g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="66732ms" clipEnd="67532ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id93">
+			<!-- Villagers -->
+			<text src="../016.xhtml#w93"/>
+			<audio clipBegin="67532ms" clipEnd="68082ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id94">
+			<!-- saw -->
+			<text src="../016.xhtml#w94"/>
+			<audio clipBegin="68082ms" clipEnd="68272ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id95">
+			<!-- Belle -->
+			<text src="../016.xhtml#w95"/>
+			<audio clipBegin="68272ms" clipEnd="68592ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id96">
+			<!-- reading -->
+			<text src="../016.xhtml#w96"/>
+			<audio clipBegin="68592ms" clipEnd="69512ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- They -->
+			<text src="../016.xhtml#w97"/>
+			<audio clipBegin="69512ms" clipEnd="69632ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- called -->
+			<text src="../016.xhtml#w98"/>
+			<audio clipBegin="69632ms" clipEnd="69962ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- her -->
+			<text src="../016.xhtml#w99"/>
+			<audio clipBegin="69962ms" clipEnd="70302ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- odd -->
+			<text src="../016.xhtml#w100"/>
+			<audio clipBegin="70302ms" clipEnd="70642ms" src="../audio/9781368002202.m4a"/>
+		</par>
+		<par id="id100g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="70642ms" clipEnd="71042ms" src="../audio/9781368002202.m4a"/>
+		</par>
+	</body>
+</smil>

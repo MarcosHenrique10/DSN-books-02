@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id27g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="36529ms" clipEnd="37296ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Fergus -->
+      <text src="../008.xhtml#w27"/>
+      <audio clipBegin="37296ms" clipEnd="37966ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- and -->
+      <text src="../008.xhtml#w28"/>
+      <audio clipBegin="37966ms" clipEnd="38166ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- the -->
+      <text src="../008.xhtml#w29"/>
+      <audio clipBegin="38166ms" clipEnd="38236ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- boys -->
+      <text src="../008.xhtml#w30"/>
+      <audio clipBegin="38236ms" clipEnd="38756ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- PLAY -->
+      <text src="../008.xhtml#w31"/>
+      <audio clipBegin="38756ms" clipEnd="39626ms" src="../audio/9781484711309.m4a"/>
+    </par>
+    <par id="id31g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="39626ms" clipEnd="40056ms" src="../audio/9781484711309.m4a"/>
+    </par>
+  </body>
+</smil>

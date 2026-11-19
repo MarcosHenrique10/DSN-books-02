@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1b">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12992ms" clipEnd="16582ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16582ms" clipEnd="16845ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Irene -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16845ms" clipEnd="17295ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Trimble -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17295ms" clipEnd="18235ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="18235ms" clipEnd="18845ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18845ms" clipEnd="18955ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Massimiliano -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18955ms" clipEnd="19805ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Narciso -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19805ms" clipEnd="20905ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Elsa -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20905ms" clipEnd="21185ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Chang -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21185ms" clipEnd="22095ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- and -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="22095ms" clipEnd="22255ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Grace -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22255ms" clipEnd="22655ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Lee -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22655ms" clipEnd="23005ms" src="../audio/9781423189305.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23005ms" clipEnd="23848ms" src="../audio/9781423189305.m4a"/>
+    </par>
+  </body>
+</smil>

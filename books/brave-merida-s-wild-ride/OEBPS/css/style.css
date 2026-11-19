@@ -1,0 +1,262 @@
+img{z-index:-1;}
+
+body {
+	width: 741px;
+	height: 1010px;
+	margin: 0;
+	border: none;
+}
+
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 741px;
+	height: 1010px;
+}
+
+@font-face {
+	font-family: "CantoriaMTStd";
+	src: url(../fonts/CantoriaMTStd.otf);
+}
+
+@font-face {
+	font-family: "CantoriaMTStd-Italic";
+	src: url(../fonts/CantoriaMTStd-Italic.otf);
+}
+
+@font-face {
+	font-family: "LuxuryText-Roman";
+	src: url(../fonts/LuxuryText-Roman.otf);
+}
+
+@font-face {
+	font-family: "SamanthaUprightPRO";
+	src: url(../fonts/SamanthaUprightPRO.otf);
+}
+
+@font-face {
+	font-family: "arial";
+	src: url(../fonts/arial.ttf);
+}
+
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-family: "CantoriaMTStd";
+	font-size: 21px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-size: 20px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "CantoriaMTStd";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 770px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 932px;
+	left: 301px;
+	right: 0px;
+width: 155px;height: 19px;}
+div.page5_item1{
+	position: absolute;
+	top: 148px;
+	left: 160px;
+	right: 0px;
+width: 498px;height: 146px;}
+div.page6_item1{
+	position: absolute;
+	top: 755px;
+	left: 108px;
+	right: 0px;
+width: 545px;height: 146px;}
+div.page7_item1{
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	right: 0px;
+width: 451px;height: 56px;}
+div.page8_item1{
+	position: absolute;
+	top: 75px;
+	left: 109px;
+	right: 0px;
+width: 461px;height: 92px;}
+div.page9_item1{
+	position: absolute;
+	top: 781px;
+	left: 108px;
+	right: 0px;
+width: 544px;height: 140px;}
+div.page10_item1{
+	position: absolute;
+	top: 74px;
+	left: 151px;
+	right: 0px;
+width: 507px;height: 161px;}
+div.page12_item1{
+	position: absolute;
+	top: 778px;
+	left: 139px;
+	right: 0px;
+width: 345px;height: 70px;}
+div.page13_item1{
+	position: absolute;
+	top: 78px;
+	left: 109px;
+	right: 0px;
+width: 540px;height: 131px;}
+div.page14_item1{
+	position: absolute;
+	top: 50px;
+	left: 109px;
+	right: 0px;
+width: 511px;height: 70px;}
+div.page15_item1{
+	position: absolute;
+	top: 808px;
+	left: 144px;
+	right: 0px;
+width: 558px;height: 112px;}
+div.page17_item1{
+	position: absolute;
+	top: 255px;
+	left: 275px;
+	right: 0px;
+width: 447px;height: 162px;}
+div.page18_item1{
+	position: absolute;
+	top: 203px;
+	left: 164px;
+	right: 0px;
+width: 438px;height: 110px;}
+div.page19_item1{
+	position: absolute;
+	top: 789px;
+	left: 173px;
+	right: 0px;
+width: 493px;height: 131px;}
+div.page20_item1{
+	position: absolute;
+	top: 125px;
+	left: 175px;
+	right: 0px;
+width: 462px;height: 114px;}
+div.page21_item1{
+	position: absolute;
+	top: 838px;
+	left: 160px;
+	right: 0px;
+width: 493px;height: 100px;}
+div.page22_item1{
+	position: absolute;
+	top: 73px;
+	left: 112px;
+	right: 0px;
+width: 517px;height: 206px;}
+div.page24_item1{
+	position: absolute;
+	top: 755px;
+	left: 108px;
+	right: 0px;
+width: 475px;height: 81px;}
+div.page25_item1{
+	position: absolute;
+	top: 447px;
+	left: 155px;
+	right: 0px;
+width: 545px;height: 269px;}
+div.page26_item1{
+	position: absolute;
+	top: 50px;
+	left: 111px;
+	right: 0px;
+width: 550px;height: 198px;}
+
+
+span.arialp{
+	font-family: "arial";
+}
+
+p.copy{
+	font-size: 15px;
+	line-height: 18px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family: "CantoriaMTStd";
+	color:white;
+}
+
+p.logo{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "LuxuryText-Roman";
+}
+
+span.big{
+	font-family: "SamanthaUprightPRO";
+	font-size:58px;
+	-webkit-text-stroke:1px; color:#A54797;
+	-webkit-text-fill-color:#00896F;
+}
+
+span.italic{
+font-family: "CantoriaMTStd-Italic";
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+
+.media-overlay-active span.big
+{
+color: #f00!important;
+-webkit-text-fill-color:#f00 !important;
+}

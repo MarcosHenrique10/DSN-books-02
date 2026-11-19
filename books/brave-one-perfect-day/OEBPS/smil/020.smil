@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id127g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="91360ms" clipEnd="92375ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id127">
+      <!-- She -->
+      <text src="../020.xhtml#w127"/>
+      <audio clipBegin="92375ms" clipEnd="92665ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id128">
+      <!-- thinks -->
+      <text src="../020.xhtml#w128"/>
+      <audio clipBegin="92665ms" clipEnd="92945ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id129">
+      <!-- about -->
+      <text src="../020.xhtml#w129"/>
+      <audio clipBegin="92945ms" clipEnd="93245ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id130">
+      <!-- families -->
+      <text src="../020.xhtml#w130"/>
+      <audio clipBegin="93245ms" clipEnd="94095ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id130g">
+      <!--  -->
+      <text src="../020.xhtml#empty1"/>
+      <audio clipBegin="94095ms" clipEnd="94290ms" src="../audio/9781484750131.m4a"/>
+    </par>
+  </body>
+</smil>

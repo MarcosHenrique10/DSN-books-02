@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id156g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="101835ms" clipEnd="102915ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id156">
+			<!-- He -->
+			<text src="../018.xhtml#w156"/>
+			<audio clipBegin="102915ms" clipEnd="103065ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id157">
+			<!-- took -->
+			<text src="../018.xhtml#w157"/>
+			<audio clipBegin="103065ms" clipEnd="103365ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id158">
+			<!-- McQueen -->
+			<text src="../018.xhtml#w158"/>
+			<audio clipBegin="103365ms" clipEnd="104095ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id159">
+			<!-- tractor -->
+			<text src="../018.xhtml#w159"/>
+			<audio clipBegin="104095ms" clipEnd="104575ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id160">
+			<!-- tipping -->
+			<text src="../018.xhtml#w160"/>
+			<audio clipBegin="104575ms" clipEnd="105635ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id161">
+			<!-- It -->
+			<text src="../018.xhtml#w161"/>
+			<audio clipBegin="105635ms" clipEnd="105825ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id162">
+			<!-- was -->
+			<text src="../018.xhtml#w162"/>
+			<audio clipBegin="105825ms" clipEnd="106455ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id163">
+			<!-- fun -->
+			<text src="../018.xhtml#w163"/>
+			<audio clipBegin="106455ms" clipEnd="106905ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id163g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="106905ms" clipEnd="107185ms" src="../audio/9781484751626.m4a"/>
+		</par>
+	</body>
+</smil>

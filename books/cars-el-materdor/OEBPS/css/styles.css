@@ -1,0 +1,369 @@
+img{z-index:-1;}
+@font-face {
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+
+@font-face {
+	font-family:"Billy";
+	src: url(../fonts/Billy.ttf);
+}
+@font-face {
+	font-family:"CenturyOldStyleStd-Italic";
+	src: url(../fonts/CenturyOldStyleStd-Italic.ttf);
+}
+@font-face {
+	font-family:"CenturyOldStyleStd-Regular";
+	src: url(../fonts/CenturyOldStyleStd-Regular.ttf);
+}
+@font-face {
+	font-family:"House-A-Rama-Kingpin";
+	src: url(../fonts/House-A-Rama-Kingpin.ttf);
+}
+body {
+	width: 743px;
+	height: 1010px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 743px;
+	height: 1010px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent{
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 691px;
+	left: 134px;
+	right: 0px;
+width: 475px;height: 273px;}
+div.page3_item1{
+	position: absolute;
+	top: 31px;
+	left: 119px;
+	right: 0px;
+width: 513px;height: 415px;}
+div.page4_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 541px;height: 101px;}
+div.page5_item1{
+	position: absolute;
+	top: 77px;
+	left: 141px;
+	right: 0px;
+width: 526px;height: 151px;}
+div.page7_item1{
+	position: absolute;
+	top: 595px;
+	left: 278px;
+	right: 0px;
+width: 424px;height: 375px;}
+div.page8_item1{
+	position: absolute;
+	top: 584px;
+	left: 105px;
+	right: 0px;
+width: 565px;height: 233px;}
+div.page9_item1{
+	position: absolute;
+	top: 135px;
+	left: 280px;
+	right: 0px;
+width: 414px;height: 121px;}
+div.page10_item1{
+	position: absolute;
+	top: 91px;
+	left: 128px;
+	right: 0px;
+width: 512px;height: 143px;}
+div.page11_item1{
+	position: absolute;
+	top: 755px;
+	left: 112px;
+	right: 0px;
+width: 536px;height: 193px;}
+div.page12_item1{
+	position: absolute;
+	top: 595px;
+	left: 92px;
+	right: 0px;
+width: 440px;height: 353px;}
+div.page14_item1{
+	position: absolute;
+	top: 805px;
+	left: 104px;
+	right: 0px;
+width: 520px;height: 141px;}
+div.page15_item1{
+	position: absolute;
+	top: 78px;
+	left: 128px;
+	right: 0px;
+width: 527px;height: 171px;}
+div.page16_item1{
+	position: absolute;
+	top: 831px;
+	left: 117px;
+	right: 0px;
+width: 514px;height: 118px;}
+div.page17_item1{
+	position: absolute;
+	top: 835px;
+	left: 137px;
+	right: 0px;
+width: 525px;height: 120px;}
+div.page18_item1{
+	position: absolute;
+	top: 78px;
+	left: 104px;
+	right: 0px;
+width: 547px;height: 169px;}
+div.page19_item1{
+	position: absolute;
+	top: 752px;
+	left: 127px;
+	right: 0px;
+width: 511px;height: 200px;}
+div.page20_item1{
+	position: absolute;
+	top: 715px;
+	left: 75px;
+	right: 0px;
+width: 438px;height: 224px;}
+div.page21_item1{
+	position: absolute;
+	top: 78px;
+	left: 144px;
+	right: 0px;
+width: 456px;height: 124px;}
+div.page22_item1{
+	position: absolute;
+	top: 818px;
+	left: 131px;
+	right: 0px;
+width: 477px;height: 114px;}
+p.copy{
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStd-Regular";
+word-spacing:2px;
+}
+p.copy1{
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 11px;
+	margin-bottom: 0px;
+	font-family:"CenturyOldStyleStd-Regular";
+word-spacing:2px;
+}
+span.italic
+{
+	font-family:"CenturyOldStyleStd-Italic";
+}
+span.dropcap
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 40px;
+color:#F7C23B;
+}
+span.bold
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 26px;
+word-spacing:1px;
+color:#F7C23B;
+}
+
+span.bold5
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 26px;
+word-spacing:1px;
+color:#F7C23B;
+}
+
+span.bold1
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 27px;
+color:#F7C23B;
+}
+p.indent1{
+	font-size: 22px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 27px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent2{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 27px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent3{
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+span.vertical
+{
+vertical-align:2px;
+}
+span.vertical1
+{
+vertical-align:2px;
+margin-left:5px;
+}
+p.indent4{
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent5{
+	font-size: 22px;
+	line-height: 24px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent2a{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent5a{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+p.indent2b{
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 27px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+span.bold2
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 26px;
+word-spacing:1px;
+vertical-align:-5px;
+color:#F7C23B;
+}
+span.bold1a
+{
+	font-family:"House-A-Rama-Kingpin";
+	font-size: 26px;
+word-spacing:1px;
+}
+p.indent4a{
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 24px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	font-family:"Billy";
+}
+
+.media-overlay-active {color:#f00 !important;}
+
+.media-overlay-active span.dropcap
+{ color:#f00 !important; }
+
+span.arial{
+font-family:"Arial";
+}
+
+.media-overlay-active span.bold5,
+.media-overlay-active span.bold2
+{
+color:#f00 !important;
+padding-top:35px;
+margin-top:-35px;
+}

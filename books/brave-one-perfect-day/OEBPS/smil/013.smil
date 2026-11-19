@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id77g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="65719ms" clipEnd="65985ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- The -->
+      <text src="../013.xhtml#w77"/>
+      <audio clipBegin="65985ms" clipEnd="66055ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- Scottish -->
+      <text src="../013.xhtml#w78"/>
+      <audio clipBegin="66055ms" clipEnd="66655ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- wilds -->
+      <text src="../013.xhtml#w79"/>
+      <audio clipBegin="66655ms" clipEnd="67215ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id80">
+      <!-- are -->
+      <text src="../013.xhtml#w80"/>
+      <audio clipBegin="67215ms" clipEnd="67345ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id81">
+      <!-- her -->
+      <text src="../013.xhtml#w81"/>
+      <audio clipBegin="67345ms" clipEnd="67485ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id82">
+      <!-- kingdom -->
+      <text src="../013.xhtml#w82"/>
+      <audio clipBegin="67485ms" clipEnd="68605ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- They -->
+      <text src="../013.xhtml#w83"/>
+      <audio clipBegin="68605ms" clipEnd="68755ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- are -->
+      <text src="../013.xhtml#w84"/>
+      <audio clipBegin="68755ms" clipEnd="69045ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- filled -->
+      <text src="../013.xhtml#w85"/>
+      <audio clipBegin="69045ms" clipEnd="69405ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- with -->
+      <text src="../013.xhtml#w86"/>
+      <audio clipBegin="69405ms" clipEnd="69605ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- mystery -->
+      <text src="../013.xhtml#w87"/>
+      <audio clipBegin="69605ms" clipEnd="70475ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- beauty -->
+      <text src="../013.xhtml#w88"/>
+      <audio clipBegin="70475ms" clipEnd="71155ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- and -->
+      <text src="../013.xhtml#w89"/>
+      <audio clipBegin="71155ms" clipEnd="71265ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- adventure -->
+      <text src="../013.xhtml#w90"/>
+      <audio clipBegin="71265ms" clipEnd="71935ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id90g">
+      <!--  -->
+      <text src="../013.xhtml#empty1"/>
+      <audio clipBegin="71935ms" clipEnd="72981ms" src="../audio/9781484750131.m4a"/>
+    </par>
+  </body>
+</smil>

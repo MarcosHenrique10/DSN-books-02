@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13475ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- BRAVE -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13475ms" clipEnd="14555ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- One -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14555ms" clipEnd="14895ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Perfect -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14895ms" clipEnd="15425ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Day -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15425ms" clipEnd="16625ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16625ms" clipEnd="16815ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Steve -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16815ms" clipEnd="17275ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Purcell -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17275ms" clipEnd="18665ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="18665ms" clipEnd="19355ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19355ms" clipEnd="19625ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Matt -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="19625ms" clipEnd="20115ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Nolte -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20115ms" clipEnd="20525ms" src="../audio/9781484750131.m4a"/>
+    </par>
+    <par id="id11g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="20525ms" clipEnd="21670ms" src="../audio/9781484750131.m4a"/>
+    </par>
+  </body>
+</smil>

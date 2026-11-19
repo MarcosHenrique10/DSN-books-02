@@ -1,0 +1,300 @@
+img{z-index:-1;}body {
+	width: 738px;
+	height: 1015px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 738px;
+	height: 1015px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+@font-face {
+	font-family: "billy";
+	src: url(../fonts/billy.ttf);
+}
+
+@font-face {
+	font-family: "centossi";
+	src: url(../fonts/centossi.ttf);
+}
+
+@font-face {
+	font-family: "centossr";
+	src: url(../fonts/centossr.ttf);
+}
+@font-face {
+	font-family: "houseark";
+	src: url(../fonts/houseark.ttf);
+}
+
+@font-face {
+	font-family: "Arial";
+	src: url(../fonts/Arial.ttf);
+}
+
+p.nonindent{
+	font-family: "billy";
+	font-size: 22px;
+	line-height: 28px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-family: "billy";
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 25px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 678px;
+	left: 68px;
+	right: 0px;
+width: 604px;height: 289px;}
+div.page4_item1{
+	position: absolute;
+	top: 875px;
+	left: 103px;
+	right: 0px;
+width: 526px;height: 66px;}
+div.page5_item1{
+	position: absolute;
+	top: 856px;
+	left: 128px;
+	right: 0px;
+width: 523px;height: 95px;}
+div.page6_item1{
+	position: absolute;
+	top: 84px;
+	left: 127px;
+	right: 0px;
+width: 531px;height: 115px;}
+div.page7_item1{
+	position: absolute;
+	top: 78px;
+	left: 105px;
+	right: 0px;
+width: 588px;height: 157px;}
+div.page8_item1{
+	position: absolute;
+	top: 719px;
+	left: 102px;
+	right: 0px;
+width: 606px;height: 227px;}
+div.page9_item1{
+	position: absolute;
+	top: 879px;
+	left: 125px;
+	right: 0px;
+width: 491px;height: 73px;}
+div.page10_item1{
+	position: absolute;
+	top: 81px;
+	left: 121px;
+	right: 0px;
+width: 539px;height: 171px;}
+div.page11_item1{
+	position: absolute;
+	top: 84px;
+	left:106px;
+	right: 0px;
+width: 562px;height: 154px;}
+div.page12_item1{
+	position: absolute;
+	top: 797px;
+	left: 125px;
+	right: 0px;
+width: 583px;height: 155px;}
+div.page13_item1{
+	position: absolute;
+	top: 82px;
+	left: 152px;
+	right: 0px;
+width: 571px;height: 206px;}
+div.page14_item1{
+	position: absolute;
+	top: 84px;
+	left: 102px;
+	right: 0px;
+width: 597px;height: 199px;}
+div.page15_item1{
+	position: absolute;
+	top: 769px;
+	left: 139px;
+	right: 0px;
+width: 589px;height: 178px;}
+div.page16_item1{
+	position: absolute;
+	top: 775px;
+	left: 110px;
+	right: 0px;
+width: 556px;height: 163px;}
+div.page17_item1{
+	position: absolute;
+	top: 770px;
+	left: 114px;
+	right: 0px;
+width: 561px;height: 179px;}
+div.page18_item1{
+	position: absolute;
+	top: 806px;
+	left: 116px;
+	right: 0px;
+width: 575px;height: 138px;}
+div.page19_item1{
+	position: absolute;
+	top: 84px;
+	left: 125px;
+	right: 0px;
+width: 569px;height: 183px;}
+div.page20_item1{
+	position: absolute;
+	top: 81px;
+	left: 82px;
+	right: 0px;
+width: 466px;height: 342px;}
+div.page21_item1{
+	position: absolute;
+	top: 794px;
+	left: 195px;
+	right: 0px;
+width: 405px;height: 69px;}
+div.page22_item1{
+	position: absolute;
+	top: 85px;
+	left: 110px;
+	right: 0px;
+width: 571px;height: 173px;}
+
+
+span.dropcaps
+{
+font-family: "houseark";
+font-size: 38px;
+color: #6558A5;
+}
+
+
+
+p.copy{
+	font-family: "centossr";
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+
+p.copy1{
+	font-family: "centossr";
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 12px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+
+p.head{
+	font-family: "houseark";
+	font-size: 27px;
+	line-height: 33px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 22px;
+	color: #6558A5;
+}
+
+
+span.big
+{
+line-height: 32px;
+font-family: "houseark";
+font-size: 27px;
+color: #6558A5;
+}
+
+
+
+span.big1
+{
+line-height: 32px;
+font-family: "houseark";
+font-size: 27px;
+color: #6558A5;
+color: #FFFFFF;
+}
+
+
+p.indent_white{
+	font-family: "billy";
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 25px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+color: #FFFFFF;
+}
+
+.media-overlay-active
+{
+color:#f00 !important;
+}
+
+.media-overlay-active span.dropcaps
+{
+color:#f00 !important;
+}
+
+span.italic
+{
+font-family: "centossi";
+}
+span.arial
+{
+font-family: "Arial";
+}

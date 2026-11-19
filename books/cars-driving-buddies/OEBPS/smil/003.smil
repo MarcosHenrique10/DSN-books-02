@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="16145ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Driving -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="16145ms" clipEnd="16665ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Buddies -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="16665ms" clipEnd="17725ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="17725ms" clipEnd="18245ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- by -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="18245ms" clipEnd="18645ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Apple -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="18645ms" clipEnd="18985ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Jordan -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="18985ms" clipEnd="20055ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="20055ms" clipEnd="20705ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="20705ms" clipEnd="20865ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- the -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="20865ms" clipEnd="20975ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Disney -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20975ms" clipEnd="21475ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="21475ms" clipEnd="22165ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Artists -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="22165ms" clipEnd="22785ms" src="../audio/9781484751626.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22785ms" clipEnd="23860ms" src="../audio/9781484751626.m4a"/>
+		</par>
+	</body>
+</smil>

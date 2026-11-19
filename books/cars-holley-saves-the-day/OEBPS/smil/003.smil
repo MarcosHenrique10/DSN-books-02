@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1-a">
+      <!-- START BUMPER -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="0ms" clipEnd="13642ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13642ms" clipEnd="14135ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14135ms" clipEnd="14425ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Elle -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14425ms" clipEnd="14675ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- D -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14675ms" clipEnd="14985ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Risco -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="14985ms" clipEnd="15925ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15925ms" clipEnd="16535ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16535ms" clipEnd="16715ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Mario -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="16715ms" clipEnd="17225ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Cortes -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17225ms" clipEnd="18265ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Janelle -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18265ms" clipEnd="18715ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Bell-Martin -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18715ms" clipEnd="19945ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    
+<!-- REMOVED ID12 - ADDED TO ID11-->
+    
+    <par id="id13">
+      <!-- Andrew -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="19945ms" clipEnd="20355ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Phillipson -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="20355ms" clipEnd="21275ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- and -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="21275ms" clipEnd="21415ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Scott -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="21415ms" clipEnd="21925ms" src="../audio/9781423192107.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="21925ms" clipEnd="23240ms" src="../audio/9781423192107.m4a"/>
+    </par>
+  </body>
+</smil>

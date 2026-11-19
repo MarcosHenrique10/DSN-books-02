@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="16096ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="16096ms" clipEnd="16686ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="16686ms" clipEnd="16896ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Bud -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="16896ms" clipEnd="17276ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Luckey -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="17276ms" clipEnd="17816ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- and -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="17816ms" clipEnd="17996ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Dominique -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="17996ms" clipEnd="18426ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Louis -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="18426ms" clipEnd="19316ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Story -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19316ms" clipEnd="19866ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- adapted -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="19866ms" clipEnd="20296ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20296ms" clipEnd="20526ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Andrea -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="20526ms" clipEnd="21076ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Posner -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="21076ms" clipEnd="21576ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Sanchez -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="21576ms" clipEnd="22256ms" src="../audio/9781484786321.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22256ms" clipEnd="23146ms" src="../audio/9781484786321.m4a"/>
+		</par>
+	</body>
+</smil>

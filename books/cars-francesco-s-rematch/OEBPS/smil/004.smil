@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id26g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="30520ms" clipEnd="31445ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Francesco -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="31445ms" clipEnd="32075ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- Bernoulli -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="32075ms" clipEnd="32655ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- and -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="32655ms" clipEnd="32765ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- Lightning -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="32765ms" clipEnd="33195ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- McQueen -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="33195ms" clipEnd="33715ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- had -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="33715ms" clipEnd="33865ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- challenged -->
+      <text src="../004.xhtml#w33"/>
+      <audio clipBegin="33865ms" clipEnd="34495ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- each -->
+      <text src="../004.xhtml#w34"/>
+      <audio clipBegin="34495ms" clipEnd="34695ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- other -->
+      <text src="../004.xhtml#w35"/>
+      <audio clipBegin="34695ms" clipEnd="34885ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- to -->
+      <text src="../004.xhtml#w36"/>
+      <audio clipBegin="34885ms" clipEnd="35135ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- a -->
+      <text src="../004.xhtml#w37"/>
+      <audio clipBegin="35135ms" clipEnd="35195ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- race -->
+      <text src="../004.xhtml#w38"/>
+      <audio clipBegin="35195ms" clipEnd="35635ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- in -->
+      <text src="../004.xhtml#w39"/>
+      <audio clipBegin="35635ms" clipEnd="35735ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- Monza -->
+      <text src="../004.xhtml#w40"/>
+      <audio clipBegin="35735ms" clipEnd="36265ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- Italy -->
+      <text src="../004.xhtml#w41"/>
+      <audio clipBegin="36265ms" clipEnd="36885ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- Francesco's -->
+      <text src="../004.xhtml#w42"/>
+      <audio clipBegin="36885ms" clipEnd="37605ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- hometown -->
+      <text src="../004.xhtml#w43"/>
+      <audio clipBegin="37605ms" clipEnd="38745ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- Everyone -->
+      <text src="../004.xhtml#w44"/>
+      <audio clipBegin="38745ms" clipEnd="39235ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- had -->
+      <text src="../004.xhtml#w45"/>
+      <audio clipBegin="39235ms" clipEnd="39475ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- just -->
+      <text src="../004.xhtml#w46"/>
+      <audio clipBegin="39475ms" clipEnd="39865ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- arrived -->
+      <text src="../004.xhtml#w47"/>
+      <audio clipBegin="39865ms" clipEnd="40385ms" src="../audio/9781484724507.m4a"/>
+    </par>
+    <par id="id47g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="40385ms" clipEnd="41295ms" src="../audio/9781484724507.m4a"/>
+    </par>
+  </body>
+</smil>

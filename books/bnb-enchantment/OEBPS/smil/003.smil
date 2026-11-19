@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="14951ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- The -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="14951ms" clipEnd="15161ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Enchantment -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="15161ms" clipEnd="16941ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- By -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="16941ms" clipEnd="17161ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- ERIC -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="17161ms" clipEnd="17531ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- GERON -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="17531ms" clipEnd="18571ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Screenplay -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="18571ms" clipEnd="19311ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- by -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="19311ms" clipEnd="19561ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- EVAN -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19561ms" clipEnd="19901ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- SPILIOTOPOULOS -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="19901ms" clipEnd="21121ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- and -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="21121ms" clipEnd="21241ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- STEPHEN -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="21241ms" clipEnd="21701ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- CHBOSKY -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="21701ms" clipEnd="22501ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- and -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="22501ms" clipEnd="22741ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- BILL -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="22741ms" clipEnd="22941ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- CONDON -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="22941ms" clipEnd="23511ms" src="../audio/9781368002226.m4a"/>
+		</par>
+		<par id="id15g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="23511ms" clipEnd="23714ms" src="../audio/9781368002226.m4a"/>
+		</par>
+	</body>
+</smil>

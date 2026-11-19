@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id36g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="34570ms" clipEnd="35195ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- The -->
+      <text src="../009.xhtml#w36"/>
+      <audio clipBegin="35195ms" clipEnd="35295ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- gutters -->
+      <text src="../009.xhtml#w37"/>
+      <audio clipBegin="35295ms" clipEnd="35935ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- began -->
+      <text src="../009.xhtml#w38"/>
+      <audio clipBegin="35935ms" clipEnd="36375ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- to -->
+      <text src="../009.xhtml#w39"/>
+      <audio clipBegin="36375ms" clipEnd="36515ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- sing -->
+      <text src="../009.xhtml#w40"/>
+      <audio clipBegin="36515ms" clipEnd="38135ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- PLING -->
+      <text src="../009.xhtml#w41"/>
+      <audio clipBegin="38135ms" clipEnd="38525ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- PLANG -->
+      <text src="../009.xhtml#w42"/>
+      <audio clipBegin="38525ms" clipEnd="39065ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id42g">
+      <!--  -->
+      <text src="../009.xhtml#empty1"/>
+      <audio clipBegin="39065ms" clipEnd="40060ms" src="../audio/9781484751978.m4a"/>
+    </par>
+  </body>
+</smil>

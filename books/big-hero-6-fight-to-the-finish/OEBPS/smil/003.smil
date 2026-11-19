@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15991ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Fight -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15991ms" clipEnd="16391ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- to -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16391ms" clipEnd="16481ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- The -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16481ms" clipEnd="16581ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Finish -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16581ms" clipEnd="17601ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17601ms" clipEnd="17771ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Bill -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17771ms" clipEnd="18121ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Scollon -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18121ms" clipEnd="19441ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19441ms" clipEnd="20051ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20051ms" clipEnd="20201ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- the -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20201ms" clipEnd="20311ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Disney -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20311ms" clipEnd="20721ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="20721ms" clipEnd="21461ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Art -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="21461ms" clipEnd="21731ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Team -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="21731ms" clipEnd="22031ms" src="../audio/9781484701706.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="22031ms" clipEnd="23106ms" src="../audio/9781484701706.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id124g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="86155ms" clipEnd="87240ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id124">
+			<!-- So -->
+			<text src="../014.xhtml#w124"/>
+			<audio clipBegin="87240ms" clipEnd="87560ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id125">
+			<!-- Hiro -->
+			<text src="../014.xhtml#w125"/>
+			<audio clipBegin="87560ms" clipEnd="87990ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id126">
+			<!-- gave -->
+			<text src="../014.xhtml#w126"/>
+			<audio clipBegin="87990ms" clipEnd="88300ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id127">
+			<!-- him -->
+			<text src="../014.xhtml#w127"/>
+			<audio clipBegin="88300ms" clipEnd="88470ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id128">
+			<!-- several -->
+			<text src="../014.xhtml#w128"/>
+			<audio clipBegin="88470ms" clipEnd="88980ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id129">
+			<!-- upgrades -->
+			<text src="../014.xhtml#w129"/>
+			<audio clipBegin="88980ms" clipEnd="89720ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id129g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="89720ms" clipEnd="90425ms" src="../audio/9781484751770.m4a"/>
+		</par>
+	</body>
+</smil>

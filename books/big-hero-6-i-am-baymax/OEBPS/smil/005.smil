@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id22g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="28685ms" clipEnd="29290ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- They -->
+			<text src="../005.xhtml#w22"/>
+			<audio clipBegin="29290ms" clipEnd="29530ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- fly -->
+			<text src="../005.xhtml#w23"/>
+			<audio clipBegin="29530ms" clipEnd="30150ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- over -->
+			<text src="../005.xhtml#w24"/>
+			<audio clipBegin="30150ms" clipEnd="30360ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- the -->
+			<text src="../005.xhtml#w25"/>
+			<audio clipBegin="30360ms" clipEnd="30470ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- city -->
+			<text src="../005.xhtml#w26"/>
+			<audio clipBegin="30470ms" clipEnd="30940ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- of -->
+			<text src="../005.xhtml#w27"/>
+			<audio clipBegin="30940ms" clipEnd="31010ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- San -->
+			<text src="../005.xhtml#w28"/>
+			<audio clipBegin="31010ms" clipEnd="31560ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- Fransokyo -->
+			<text src="../005.xhtml#w29"/>
+			<audio clipBegin="31560ms" clipEnd="32820ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- and -->
+			<text src="../005.xhtml#w30"/>
+			<audio clipBegin="32820ms" clipEnd="32980ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- protect -->
+			<text src="../005.xhtml#w31"/>
+			<audio clipBegin="32980ms" clipEnd="33570ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- its -->
+			<text src="../005.xhtml#w32"/>
+			<audio clipBegin="33570ms" clipEnd="33830ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- citizens -->
+			<text src="../005.xhtml#w33"/>
+			<audio clipBegin="33830ms" clipEnd="34650ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id33g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="34650ms" clipEnd="35665ms" src="../audio/9781484751770.m4a"/>
+		</par>
+	</body>
+</smil>

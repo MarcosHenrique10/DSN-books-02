@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id256g">
+      <!--  -->
+      <text src="../038.xhtml#empty"/>
+      <audio clipBegin="172508ms" clipEnd="173575ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- At -->
+      <text src="../038.xhtml#w256"/>
+      <audio clipBegin="173575ms" clipEnd="173715ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- last -->
+      <text src="../038.xhtml#w257"/>
+      <audio clipBegin="173715ms" clipEnd="174515ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id258">
+      <!-- he -->
+      <text src="../038.xhtml#w258"/>
+      <audio clipBegin="174515ms" clipEnd="174615ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id259">
+      <!-- spotted -->
+      <text src="../038.xhtml#w259"/>
+      <audio clipBegin="174615ms" clipEnd="175115ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id260">
+      <!-- a -->
+      <text src="../038.xhtml#w260"/>
+      <audio clipBegin="175115ms" clipEnd="175165ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id261">
+      <!-- red -->
+      <text src="../038.xhtml#w261"/>
+      <audio clipBegin="175165ms" clipEnd="175485ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id262">
+      <!-- dot -->
+      <text src="../038.xhtml#w262"/>
+      <audio clipBegin="175485ms" clipEnd="175975ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id263">
+      <!-- far -->
+      <text src="../038.xhtml#w263"/>
+      <audio clipBegin="175975ms" clipEnd="176335ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id264">
+      <!-- below -->
+      <text src="../038.xhtml#w264"/>
+      <audio clipBegin="176335ms" clipEnd="176865ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id264g">
+      <!--  -->
+      <text src="../038.xhtml#empty1"/>
+      <audio clipBegin="176865ms" clipEnd="177315ms" src="../audio/9781484751978.m4a"/>
+    </par>
+  </body>
+</smil>

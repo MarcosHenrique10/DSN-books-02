@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="15299ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Baymax's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="15299ms" clipEnd="15969ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Journey -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="15969ms" clipEnd="17079ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Written -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="17079ms" clipEnd="17369ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- by -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="17369ms" clipEnd="17539ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Victoria -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="17539ms" clipEnd="18109ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Saxon -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="18109ms" clipEnd="19339ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="19339ms" clipEnd="19919ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19919ms" clipEnd="20089ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- The -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="20089ms" clipEnd="20209ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Disney -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20209ms" clipEnd="20589ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="20589ms" clipEnd="21349ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Art -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="21349ms" clipEnd="21579ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Team -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="21579ms" clipEnd="21889ms" src="../audio/9781484744826.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="21889ms" clipEnd="22814ms" src="../audio/9781484744826.m4a"/>
+		</par>
+	</body>
+</smil>

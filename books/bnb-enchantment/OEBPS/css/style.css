@@ -1,0 +1,361 @@
+img{z-index:-1;}body {
+	width: 998px;
+	height: 998px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 998px;
+	height: 998px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.crt0{
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "AvenirNextLTPro-Medium";
+}
+p.crt{
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-family: "AvenirNextLTPro-Medium";
+}
+p.author0{
+	font-size: 22px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.author{
+	font-size: 22px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.nonindent0{
+	font-size: 26px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.nonindent_top{
+	font-size: 26px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 25px;
+	margin-bottom: 0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.nonindent{
+	font-size: 26px;
+	line-height: 41px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "SimonciniGaramondStd";
+}
+p.back_nonindent{
+	font-size: 25px;
+	line-height: 32px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	font-family: "SimonciniGaramondStd";
+}
+p.crt_small{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #B8872D;
+	font-family: "AvenirNextLTPro-Light";
+}
+span.big
+{
+	font-size: 120px;
+	font-family: "DavisonSpencerian";
+	margin-left: -30px;
+	color: #B8872D;
+}
+span.big0
+{
+	font-size: 105px;
+	font-family: "DavisonSpencerian";
+	margin-left: -45px;
+	color: #B8872D;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 404px;
+	left: 228px;
+	right: 0px;
+width: 559px;height: 209px;}
+div.page3_item1{
+	position: absolute;
+	top: 653px;
+	left: 252px;
+	right: 0px;
+width: 493px;height: 135px;}
+div.page5_item1{
+	position: absolute;
+	top: 642px;
+	left: 134px;
+	right: 0px;
+width: 770px;height: 211px;}
+div.page6_item1{
+	position: absolute;
+	top: 302px;
+	left: 125px;
+	right: 0px;
+width: 620px;height: 118px;}
+div.page6_item2{
+	position: absolute;
+	top: 452px;
+	left: 125px;
+	right: 0px;
+width: 615px;height: 241px;}
+div.page9_item1{
+	position: absolute;
+	top: 295px;
+	left: 275px;
+	right: 0px;
+width: 654px;height: 203px;}
+div.page9_item2{
+	position: absolute;
+	top: 526px;
+	left: 275px;
+	right: 0px;
+width: 655px;height: 166px;}
+div.page10_item1{
+	position: absolute;
+	top: 261px;
+	left: 120px;
+	right: 0px;
+width: 651px;height: 188px;}
+div.page10_item2{
+	position: absolute;
+	top: 493px;
+	left: 120px;
+	right: 0px;
+width: 640px;height: 236px;}
+div.page13_item1{
+	position: absolute;
+	top: 256px;
+	left: 265px;
+	right: 0px;
+width: 657px;height: 284px;}
+div.page13_item2{
+	position: absolute;
+	top: 570px;
+	left: 265px;
+	right: 0px;
+width: 629px;height: 249px;}
+div.page15_item1{
+	position: absolute;
+	top: 220px;
+	left: 265px;
+	right: 0px;
+width: 621px;height: 361px;}
+div.page15_item2{
+	position: absolute;
+	top: 614px;
+	left: 265px;
+	right: 0px;
+width: 618px;height: 158px;}
+div.page16_item1{
+	position: absolute;
+	top: 302px;
+	left: 105px;
+	right: 0px;
+width: 657px;height: 197px;}
+div.page16_item2{
+	position: absolute;
+	top: 533px;
+	left: 105px;
+	right: 0px;
+width: 642px;height: 157px;}
+div.page19_item1{
+	position: absolute;
+	top: 240px;
+	left: 274px;
+	right: 0px;
+width: 661px;height: 327px;}
+div.page19_item2{
+	position: absolute;
+	top: 594px;
+	left: 274px;
+	right: 0px;
+width: 659px;height: 152px;}
+div.page20_item1{
+	position: absolute;
+	top: 240px;
+	left: 125px;
+	right: 0px;
+width: 653px;height: 245px;}
+div.page20_item2{
+	position: absolute;
+	top: 513px;
+	left: 125px;
+	right: 0px;
+width: 654px;height: 233px;}
+div.page22_item1{
+	position: absolute;
+	top: 198px;
+	left: 115px;
+	right: 0px;
+width: 634px;height: 240px;}
+div.page22_item2{
+	position: absolute;
+	top: 473px;
+	left: 115px;
+	right: 0px;
+width: 636px;height: 326px;}
+div.page25_item1{
+	position: absolute;
+	top: 282px;
+	left: 272px;
+	right: 0px;
+width: 649px;height: 241px;}
+div.page25_item2{
+	position: absolute;
+	top: 555px;
+	left: 272px;
+	right: 0px;
+width: 651px;height: 159px;}
+div.page26_item1{
+	position: absolute;
+	top: 515px;
+	left: 125px;
+	right: 0px;
+width: 767px;height: 117px;}
+div.page26_item2{
+	position: absolute;
+	top: 664px;
+	left: 125px;
+	right: 0px;
+width: 815px;height: 202px;}
+div.page28_item1{
+	position: absolute;
+	top: 560px;
+	left: 137px;
+	right: 0px;
+width: 819px;height: 127px;}
+div.page28_item2{
+	position: absolute;
+	top: 909px;
+	left: 358px;
+	right: 0px;
+width: 284px;height: 47px;}
+span.arial{
+	font-family: "Arial";
+}
+@font-face{
+	font-family: "Arial";
+	src: url(../fonts/Arial.ttf);
+}
+@font-face{
+	font-family: "AvenirNextLTPro-Light";
+	src: url(../fonts/AvenirNextLTPro-Light.otf);
+}
+@font-face{
+	font-family: "AvenirNextLTPro-Medium";
+	src: url(../fonts/AvenirNextLTPro-Medium.otf);
+}
+@font-face{
+	font-family: "AvenirNextLTPro-MediumIt";
+	src: url(../fonts/AvenirNextLTPro-MediumIt.otf);
+}
+@font-face{
+	font-family: "DavisonSpencerian";
+	src: url(../fonts/DavisonSpencerian.otf);
+}
+@font-face{
+	font-family: "SimonciniGaramondStd";
+	src: url(../fonts/SimonciniGaramondStd.otf);
+}
+span.italic
+{
+	font-family: "AvenirNextLTPro-MediumIt";
+}
+span.right0
+{
+	margin-left: -19px;
+}
+span.right
+{
+	margin-left: -2px;
+}
+span.right00
+{
+	margin-left: -10px;
+	vertical-align: 2px;
+}
+span.right1
+{
+	margin-left: -2px;
+	vertical-align: 2px;
+}
+ .media-overlay-active
+{
+ color:#f00 !important;
+ padding-top:15px;
+ padding-bottom:15px;
+}
+ .media-overlay-active span.big
+{
+ color:#f00 !important;
+ padding-top:15px;
+ padding-bottom:15px;
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id401g">
+      <!--  -->
+      <text src="../056.xhtml#empty"/>
+      <audio clipBegin="260549ms" clipEnd="261645ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id401">
+      <!-- But -->
+      <text src="../056.xhtml#w401"/>
+      <audio clipBegin="261645ms" clipEnd="261825ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id402">
+      <!-- in -->
+      <text src="../056.xhtml#w402"/>
+      <audio clipBegin="261825ms" clipEnd="261955ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- the -->
+      <text src="../056.xhtml#w403"/>
+      <audio clipBegin="261955ms" clipEnd="262015ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- big -->
+      <text src="../056.xhtml#w404"/>
+      <audio clipBegin="262015ms" clipEnd="262395ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- city -->
+      <text src="../056.xhtml#w405"/>
+      <audio clipBegin="262395ms" clipEnd="262835ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- that -->
+      <text src="../056.xhtml#w406"/>
+      <audio clipBegin="262835ms" clipEnd="263055ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- night -->
+      <text src="../056.xhtml#w407"/>
+      <audio clipBegin="263055ms" clipEnd="263485ms" src="../audio/9781484751978.m4a"/>
+    </par>
+    <par id="id407g">
+      <!--  -->
+      <text src="../056.xhtml#empty1"/>
+      <audio clipBegin="263485ms" clipEnd="264090ms" src="../audio/9781484751978.m4a"/>
+    </par>
+  </body>
+</smil>

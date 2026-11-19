@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id62g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="49895ms" clipEnd="50960ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- He -->
+			<text src="../008.xhtml#w62"/>
+			<audio clipBegin="50960ms" clipEnd="51090ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- took -->
+			<text src="../008.xhtml#w63"/>
+			<audio clipBegin="51090ms" clipEnd="51460ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- care -->
+			<text src="../008.xhtml#w64"/>
+			<audio clipBegin="51460ms" clipEnd="51750ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id65">
+			<!-- of -->
+			<text src="../008.xhtml#w65"/>
+			<audio clipBegin="51750ms" clipEnd="51870ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id66">
+			<!-- injuries -->
+			<text src="../008.xhtml#w66"/>
+			<audio clipBegin="51870ms" clipEnd="52920ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id67">
+			<!-- and -->
+			<text src="../008.xhtml#w67"/>
+			<audio clipBegin="52920ms" clipEnd="53100ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id68">
+			<!-- gave -->
+			<text src="../008.xhtml#w68"/>
+			<audio clipBegin="53100ms" clipEnd="53380ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id69">
+			<!-- big -->
+			<text src="../008.xhtml#w69"/>
+			<audio clipBegin="53380ms" clipEnd="53960ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id70">
+			<!-- hugs -->
+			<text src="../008.xhtml#w70"/>
+			<audio clipBegin="53960ms" clipEnd="54590ms" src="../audio/9781484751770.m4a"/>
+		</par>
+		<par id="id70g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="54590ms" clipEnd="55230ms" src="../audio/9781484751770.m4a"/>
+		</par>
+	</body>
+</smil>
